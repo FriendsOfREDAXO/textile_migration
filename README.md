@@ -7,12 +7,12 @@ Dieses AddOn hilft bei der Umsetellung von Textile zu HTML.
 ## Anwendung: 
 
 - AddOn installieren
-- Backup der DB erstellen (für alle Fälle) 
+- Backup der DB erstellen (**unbedingt***) 
 - Textile Migration aufrufen und die gewünschte Option ausführen
 
 ## Features
 
-- Article Slices migrieren mit automatischer Erkennung (**Experimentell**)
+- Article Slices migrieren mit automatischer Erkennung (**Experimentelle Funktion**)
 - Article Slices migireren ohne automatische Erkennung
 - Datenbank Tabelle migireren 
 
