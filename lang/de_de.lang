@@ -1,0 +1,12 @@
+textile_migration = Textile Migration
+system_textile_migration = Migration
+textile_migration_actions = Migration Type
+textile_migration_action_article_automatic = Article Slices migrieren mit automatischer Erkennung
+textile_migration_action_article_definition = Article Slices migireren ohne automatische Erkennung
+textile_migration_action_table_definition = Datenbank Tabelle migireren
+
+textile_migration_step_process_successful = Migration erfolgreich durchgeführt
+textile_migration_back = Zurück zur Übersicht
+textile_migration_action = Migration
+
+textile_migration_action_button = Migration schrittweise durchführen

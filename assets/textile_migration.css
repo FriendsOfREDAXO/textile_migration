@@ -1,0 +1,29 @@
+.textile_migration_process_success_msg,
+.textile_migration_process_wrapper {
+    display: none;
+}
+
+.textile_migration_processbar_empty,
+.textile_migration_processbar_full,
+.textile_migration_processbar {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-bottom: none;
+}
+
+.textile_migration_processbar_empty,
+.textile_migration_processbar_full,
+.textile_migration_list_empty pre,
+.textile_migration_list_empty .steps,
+.textile_migration_list_full pre,
+.textile_migration_list_full .steps {
+    display: none;
+}
+
+.textile_migration-action-button {
+    margin-top: 25px;
+}
+
+.action_definition {
+    margin-top: 25px;
+}

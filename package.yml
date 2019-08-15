@@ -1,0 +1,18 @@
+package: textile_migration
+version: '1.0.0'
+author: Friends Of REDAXO
+supportpage: https://github.com/FriendsOfREDAXO/cke5/issues
+
+page:
+    title: 'translate:textile_migration'
+    pjax: false
+    subpages:
+        index:
+            title: 'translate:overview'
+            hidden: true
+
+requires:
+    redaxo: '^5.4'
+    markitup: '^3.0'
+    php:
+        version: '>=5.6'
