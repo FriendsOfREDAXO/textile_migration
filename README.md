@@ -12,7 +12,7 @@ Dieses AddOn hilft bei der Umsetellung von Textile zu HTML.
 
 ## Features
 
-- Article Slices migrieren mit automatischer Erkennung (Experimentell)
+- Article Slices migrieren mit automatischer Erkennung (**Experimentell**)
 - Article Slices migireren ohne automatische Erkennung
 - Datenbank Tabelle migireren
 
