@@ -4,7 +4,7 @@
 
 ## Keine Lust mehr auf Textile?
 
-Dieses AddOn hilft bei der Umsetellung von Textile zu HTML. 
+Dieses AddOn hilft bei der Umstellung von Textile zu HTML. 
 
 ## Anwendung: 
 
