@@ -151,8 +151,9 @@ class SliceValueReplacer
             case 'markdown':
                 break;
             case 'textile':
-                $textile = new \Textile();
-                $value = $textile->textileRestricted($value);
+                $parser = new Parser();
+                $parser = $parser->setRestricted(true);
+                $value  = $parser->parse($value);
                 break;
             default:
                 $parser = new Parser();
