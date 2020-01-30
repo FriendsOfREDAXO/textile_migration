@@ -1,7 +1,7 @@
 package: textile_migration
 version: '1.0.0'
 author: Friends Of REDAXO
-supportpage: https://github.com/FriendsOfREDAXO/cke5/issues
+supportpage: https://github.com/FriendsOfREDAXO/textile_migration
 
 page:
     title: 'translate:textile_migration'
