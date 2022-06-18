@@ -1,8 +1,8 @@
 <?php
 /**
  * User: joachimdoerr
- * Date: 26.07.18
- * Time: 19:54
+ * Date: 18.06.22
+ * Time: 21:19
  */
 
 namespace TextileMigration\Replacer;
@@ -151,8 +151,7 @@ class SliceValueReplacer
             case 'markdown':
                 break;
             case 'textile':
-                $textile = new \Textile();
-                $value = $textile->textileRestricted($value);
+                $value = markitup::parseOutput('textile', $value);
                 break;
             default:
                 $parser = new Parser();
