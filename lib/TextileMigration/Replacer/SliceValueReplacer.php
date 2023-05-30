@@ -151,7 +151,7 @@ class SliceValueReplacer
             case 'markdown':
                 break;
             case 'textile':
-                $value = markitup::parseOutput('textile', $value);
+                $value = \markitup::parseOutput('textile', $value);
                 break;
             default:
                 $parser = new Parser();
